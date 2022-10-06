@@ -12,10 +12,10 @@
     }
   },
   "User": {
-    "nombre": "Juan",
-    "edad": 20,
-    "sueldo": 80000,
-    "cantPrestamo": 120000,
-    "cantidadCuotas": 6
+   "nombre": "Juan",
+   "edad": 20,
+   "sueldo": 80000,
+   "cantPrestamo": 120000,
+   "cantidadCuotas": 6
   }
 }
