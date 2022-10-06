@@ -13,9 +13,9 @@
   },
   "User": {
     "nombre": "",
-    "edad" ,
-    "sueldo" ,
-    "cantPrestamo" ,
-    "cantidadCuotas"
+    "edad": ,
+    "sueldo": ,
+    "cantPrestamo": ,
+    "cantidadCuotas":
   }
 }
