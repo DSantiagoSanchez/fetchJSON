@@ -7,14 +7,6 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  
-  "ususario": [
-    { "nombre": "",
-      "edad": ,
-      "sueldo": ,
-      "cantPrestamo": ,
-      "cantidadCuotas": }
-    ]
+  }
 }
 
