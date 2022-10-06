@@ -2,7 +2,12 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "New user",
+      "nombre": "",
+      "edad": "",
+      "sueldo": "",
+      "cantPrestamo": "",
+      "cantidadCuotas": "",
     }
   ],
   "profile": {
