@@ -9,12 +9,12 @@
     "name": "typicode"
   },
   
-  "ususario": {
-    "nombre": "",
-    "edad": ,
-    "sueldo": ,
-    "cantPrestamo": ,
-    "cantidadCuotas": ,
-  }
+  "ususario": [
+    { "nombre": "",
+      "edad": ,
+      "sueldo": ,
+      "cantPrestamo": ,
+      "cantidadCuotas": ,}
+    ]
 }
 
