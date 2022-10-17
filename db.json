@@ -9,11 +9,13 @@
     "name": "typicode"
   },
   "user": {
-        "id": 1,
         "nombre": "",
         "edad": 0,
+        "dni": 0,
+        "numTelefono": 0,
         "sueldo": 0,
         "cantPrestamo": 0,
-        "cantidadCuotas": 0
+        "cantidadCuotas": 0,
+        "cbu": 0
     }
 }
